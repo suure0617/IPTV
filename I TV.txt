@@ -648,7 +648,7 @@ http://23.237.100.82:8000/PENTHOUSE/index.m3u8
 http://23.237.100.82:8000/PLAYBOY/index.m3u8
 #EXTINF:-1 group-title="成人频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suure0617/TU/main/REDLIGHTHD.png" ,Redlight HD
 http://51.159.102.100/RedlightHD/index.m3u8
-#EXTINF:-1 group-title="成人频道" tvg-logo="https://i.postimg.cc/WbQ7HS29/puretaboo.png",Pure Taboo
+#EXTINF:-1 group-title="成人频道" tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/suure0617/TU/main/PURETABOO.png",Pure Taboo
 http://78.47.224.234/puretaboo/index.m3u8
 
 #EXTINF:-1 group-title="成人频道" tvg-logo="https://files.adultiptv.net/adultiptvnet.jpg",Live Cams
